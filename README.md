@@ -3,26 +3,62 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalcangit&label=Profile%20views&color=0e75b6&style=flat" alt="vishalcangit" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **Slack Clone**
-
 - 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **FrontEnd Developement**
-
-- 📫 How to reach me **vishalsuvarna2000@gmail.com**
+- 👯 I’m looking to collaborate on **FrontEnd Development**
+- 📫 How to reach me: **vishalsuvarna2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishal-suvarna-14108a1a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-suvarna-14108a1a0/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishal-suvarna-14108a1a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-suvarna" height="30" width="40" /></a>
 </p>
 
+### Professional Experience
+#### FrontEnd Developer | ReactJs
+**Drall & Dholiya Pvt Ltd. (Guruji Astro)**
+*09/2022 – Present* | Jaipur, India
+
+- Tech Stack: Javascript, React.js, React-Native, Redux-toolkit, React-router, ChakraUi, GraphQL, APIs, Git, GitHub
+- Led a team of 15 developers in the development of a website using ReactJS and a mobile application using React Native.
+- Implemented OTP login functionality and facilitated call consultation services using Exotel.
+- Built a live streaming feature with 100ms integration for consultation calls.
+- Integrated GraphQL for real-time chat functionality in web and mobile applications.
+- Integrated multiple payment gateways (Razorpay, Stripe, Paytm).
+- Utilized Redux for state management and created custom hooks.
+- Implemented tracking and analysis tools (Google Analytics, Tag Manager, Pixel Ads, LinkedIn Ads).
+- Deployed the server on AWS S3 Bucket, optimizing for SEO and performance.
+
+#### Dream Project
+- Tech Stack: ReactJs, Redux-toolkit, React-router, AWS S3, Git, GitLab
+- Developed a Slot Booking system for scheduling and payment of consultation appointments.
+- Integrated an API for managing booking slots and facilitating payments via Razorpay.
+- Deployed the frontend server on AWS S3.
+
+#### Gyan
+- Tech Stack: Html, CSS, Javascript, PHP, MySql, WordPress, AWS EC2, Git, GitLab
+- Developed a blog website showcasing articles, lyrics, and related content.
+- Integrated Google Analytics, Tag Manager, and AdSense.
+- Deployed the website on AWS EC2 instance.
+- Optimized for SEO, performance, accessibility, and best practices.
+
+### Skills
+- **Frontend Development:** ReactJS, React-Native, React Router, Redux, Redux Toolkit, HTML, CSS, JavaScript.
+- **UI Frameworks:** Bootstrap, MaterialUI, DevExtreme, ChakraUI.
+- **Version Control:** Git, GitHub, GitLab.
+- **Others:** RESTful API, GRAPHQL API, Data Structures & Algorithms (Java).
+
+### Education
+**Bachelor of Science in Information Technology**
+Anna Leela College of Commerce and Economics
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<!-- Add your languages and tools here -->
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalcangit&show_icons=true&locale=en&layout=compact" alt="vishalcangit" /></p>
 
