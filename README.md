@@ -1,67 +1,58 @@
-<h1 align="center">Hi 👋, I'm Vishal Suvarna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi 👋, I'm Vishal Suvarna
+### A versatile Software Development Engineer with expertise in full-stack development and leadership. 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+[![Profile Views](https://komarev.com/ghpvc/?username=vishalcangit&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/vishalcangit)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalcangit&label=Profile%20views&color=0e75b6&style=flat" alt="vishalcangit" /> </p>
+[![LinkedIn: Vishal Suvarna](https://img.shields.io/badge/-Vishal%20Suvarna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vishal-suvarna-14108a1a0/)](https://linkedin.com/in/vishal-suvarna-14108a1a0/)
 
-- 🔭 I’m currently working on **Slack Clone**
-- 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on **FrontEnd Development**
-- 📫 How to reach me: **vishalsuvarna2000@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vishal-suvarna-14108a1a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-suvarna" height="30" width="40" /></a>
-</p>
+* 💼  Current roles: **Chief Technical Officer (CTO) & Founding Team Member** at GuruCool | **Software Development Engineer** at Guruji Astro
+* 🌱 Focused on:  Full-stack development, React, React Native, AWS, Node.js, and leadership
+* 🤝 Open to collaborations, mentorship, and exciting projects!
+* 📫 Reach me: **vishalsuvarna2000@gmail.com**
 
 ### Professional Experience
-#### FrontEnd Developer | ReactJs
-**Drall & Dholiya Pvt Ltd. (Guruji Astro)**
-*09/2022 – Present* | Jaipur, India
 
-- Tech Stack: Javascript, React.js, React-Native, Redux-toolkit, React-router, ChakraUi, GraphQL, APIs, Git, GitHub
-- Led a team of 15 developers in the development of a website using ReactJS and a mobile application using React Native.
-- Implemented OTP login functionality and facilitated call consultation services using Exotel.
-- Built a live streaming feature with 100ms integration for consultation calls.
-- Integrated GraphQL for real-time chat functionality in web and mobile applications.
-- Integrated multiple payment gateways (Razorpay, Stripe, Paytm).
-- Utilized Redux for state management and created custom hooks.
-- Implemented tracking and analysis tools (Google Analytics, Tag Manager, Pixel Ads, LinkedIn Ads).
-- Deployed the server on AWS S3 Bucket, optimizing for SEO and performance.
+**GuruCool (Nohata & Shiv Pvt Ltd.)** 
+* **Chief Technical Officer (CTO) & Founding Team Member**  (2023 – present | Jaipur, India)
+    * Spearhead cross-platform product development encompassing web, Android, iOS, and admin systems.
+    * Drive user engagement through secure login, chat, call, and live streaming integrations. 
+    * Manage scalable AWS infrastructure with autoscaling for growth and reliability.
+    * Champion data-driven decision-making with the implementation of an internal analytics dashboard.
+    * Lead efficient cross-platform development using React Native, including custom Java modules.  
+    * Facilitate timely app store deployments (Play Console, iOS) and champion agile methodologies.
 
-#### Dream Project
-- Tech Stack: ReactJs, Redux-toolkit, React-router, AWS S3, Git, GitLab
-- Developed a Slot Booking system for scheduling and payment of consultation appointments.
-- Integrated an API for managing booking slots and facilitating payments via Razorpay.
-- Deployed the frontend server on AWS S3.
-
-#### Gyan
-- Tech Stack: Html, CSS, Javascript, PHP, MySql, WordPress, AWS EC2, Git, GitLab
-- Developed a blog website showcasing articles, lyrics, and related content.
-- Integrated Google Analytics, Tag Manager, and AdSense.
-- Deployed the website on AWS EC2 instance.
-- Optimized for SEO, performance, accessibility, and best practices.
+**Guruji Astro (Drall & Dholiya Pvt Ltd.)** 
+* **Software Development Engineer** (2022 – 2023 | Jaipur, India)
+    * Built a robust, user-centric website from the ground up, ensuring secure authentication.
+    * Enhanced user experience with OTP login, call consultations (Exotel), and live streaming (Agora Live).
+    * Integrated  Razorpay for streamlined and secure payment processing.
+    * Optimized UX and marketing with analytics tools (Google Analytics, GTM, Pixel/LinkedIn Ads).
+    * Configured and maintained AWS infrastructure (EC2) for performance, SEO, and best practices.
 
 ### Skills
-- **Frontend Development:** ReactJS, React-Native, React Router, Redux, Redux Toolkit, HTML, CSS, JavaScript.
-- **UI Frameworks:** Bootstrap, MaterialUI, DevExtreme, ChakraUI.
-- **Version Control:** Git, GitHub, GitLab.
-- **Others:** RESTful API, GRAPHQL API, Data Structures & Algorithms (Java).
+
+**Frontend:** ReactJS, React Native, HTML, CSS, JavaScript, jQuery, AJAX 
+
+**Backend:** NodeJS, ExpressJS, REST APIs, GraphQL, Socket.IO, MySQL, MongoDB
+
+**Cloud:** AWS, DigitalOcean, GCP
+
+**DevOps & Tools:**  Git, GitHub, GitLab, NGINX, Linux/UNIX, PM2
+
+**Other:** Project Management, Team Leadership, System Design, Strategic Optimization
 
 ### Education
-**Bachelor of Science in Information Technology**
-Anna Leela College of Commerce and Economics
 
----
+* **Bachelor of Science in Information Technology** (2018 – 2021) 
+  Mumbai University, Mumbai, India
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<!-- Add your languages and tools here -->
-</p>
+### Interests
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalcangit&show_icons=true&locale=en&layout=compact" alt="vishalcangit" /></p>
+Sports | Music | Travel | Movies & TV Series | Fitness
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalcangit&show_icons=true&locale=en" alt="vishalcangit" /></p>
+### Let's Connect!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalcangit&" alt="vishalcangit" /></p>
+* **Portfolio:** https://vishalcangit.github.io/MyPortfolio/ 
+* **GitHub:** https://github.com/vishalcangit
+* **LinkedIn:**  https://www.linkedin.com/in/vishal-suvarna-14108a1a0/ 
+
