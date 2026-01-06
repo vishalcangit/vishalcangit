@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 💻 Full Stack Engineer with **5+ years of experience**
+- 💻 Full Stack Engineer with **6+ years of experience**
 - 📱 Specialized in **React Native (Android & iOS)** with **native modules in Kotlin & Swift**
 - ⚙️ Strong backend expertise in **Node.js, Express, Microservices**
 - ☁️ DevOps & Cloud: **AWS, Docker, CI/CD**
